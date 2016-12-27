@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Placement exp</title>
+<link rel="stylesheet" href="placementcss.txt" link="text/css"/>
+
+
+</head>
+
+
+
+<body>
+
+<h1> Placement Experiences</h1>
+
+<div class="content">
+<h3> Coming Soon.</h3>
+<p> Share your experiences from the placement drives you have attended and let it be a great use for other young aspirants in the hunt for their career. </p>
+
+
+<p> Write about your experience and send it to us at:<h4> jntuhfirst@gmail.com </h4></p>
+</div>
+</body>
+
+
+</html>
