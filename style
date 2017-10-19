@@ -1,7 +1,7 @@
 body {
   font-family: comic-sans, sans-serif;
   font-weight: 500;
-background-color:cyan;
+background-color: #ff5733 ;
 }
 
 header {
