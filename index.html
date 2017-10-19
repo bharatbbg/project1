@@ -6,59 +6,5 @@
 </head>
 <body>
 
-<form>
-<script>
-function formcheck()
-{
-var check=document.getElementById('xyz').value
-if(check.length==0)
-{
-document.getElementById('xyz').style.backgroundColor="red"
-}
-}
-</script>
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/5J5bDQHQR1g" frameborder="0" allowfullscreen></iframe>
-	<fieldset>
-	<legend>Personal Details</legend>
-	Name:<br>
-	<input type="text" id="xyz" name="name"><br>
-    Email:<br>
-	<input type="text"/><br>
-    Date of birth:<br>
-	<input type="text"/><br>
-</fieldset>
-<fieldset>
-<legend>Education Details</legend>
-	Department/Branch:<br>
-	<input type="text"/><br>
-	Year of Study:<br>
-	<input type="text"/><br>
-	College:<br>
-	<input type="text"/><br>	
-</fieldset>
-<fieldset>
-<legend>Contact Details</legend>
-	House No:<br>
-	<input type="text"/><br>
-	Street No:<br>
-	<input type="text"/><br>
-	Mandal:<br>
-	<input type="text"/><br>
-	District:<br>
-	<input type="text"/><br>
-	City:<br>
-	<input type="text"/><br>
-	Pincode:<br>
-	<input type="text"/><br>
-	Phone No:<br>
-	<input type="text" pattern="[789][0-9]{9}" required/><br>
-</fieldset>
-<fieldset> 
-Any Other Enquiry:
- <input type="text"/><br>
-</fieldset>
-<center>
-<button onclick="formcheck()">SUBMIT</button>
-</form>
 </body>
 </html>
